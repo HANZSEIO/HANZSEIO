@@ -2,7 +2,7 @@
   <h1>⚡ hanzs@github:~$ whoami</h1>
   <p>
     &gt; <b>Fullstack Developer & Hardware Engineer.</b><br>
-    &gt; <i>Currently ricing Hyprland and repurposing Amlogic STBs into AI nodes.</i>
+    &gt; <i>Currently repurposing Amlogic STBs into AI nodes.</i>
   </p>
 </div>
 
