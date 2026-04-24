@@ -10,13 +10,14 @@
 
 <pre>
 <b># [System.stack]</b>
-- Languages      :: Rust, PHP (Laravel), TypeScript (Express, Sequelize)
+- Languages      :: Rust, PHP (Laravel), TypeScript (Express, Sequelize), C++, Python
 - Hardware       :: EasyEDA, ESP32, RP2040, PCB Design (OSHWLab Star)
 - OS/Env         :: Arch Linux, Hyprland, Neovim, Zsh
 - Infrastructure :: MQTT, Armbian, Docker, aaPanel
 
 <b># [Current_Projects]</b>
-- stb-ai-node    :: Local LLM & Voice Chatbot on B860H/S905X hardware.
+- Z-ai_assistant :: smart chatbot ai for home assistant use cloud API gemini, groq, openai.
+- stb-ai-node    :: Local LLM & Voice Chatbot on S905X hardware.
 - hid-trackpad   :: Custom ESP32-C3 firmware for Goodix GT7863 trackpads.
 - smart-home-v2  :: Flutter dashboard + MQTT relay control nodes.
 - dotfiles       :: Wayland-native Arch configuration with heavy ricing.
