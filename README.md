@@ -23,7 +23,7 @@
 
 <b># [Social_Links]</b>
 - Discord        :: <a href="https://discord.gg/henzseku">discord.gg/henzseku</a>
-- Email          :: hanzseio02@gmail.com
+- Email          :: hanzse02@gmail.com
 - GitHub         :: <a href="https://github.com/HANZSEIO">github.com/HANZSEIO</a>
 </pre>
 
