@@ -13,7 +13,6 @@
 - Languages      :: Rust, PHP (Laravel), TypeScript (Express, Sequelize), C++, Python
 - Hardware       :: EasyEDA, ESP32, RP2040, PCB Design (OSHWLab Star)
 - OS/Env         :: Arch Linux, Hyprland, Neovim, Zsh
-- Infrastructure :: MQTT, Armbian, Docker, aaPanel
 
 <b># [Current_Projects]</b>
 - Z-ai_assistant :: smart chatbot ai for home assistant use cloud API gemini, groq, openai.
@@ -26,6 +25,7 @@
 - Discord        :: <a href="https://discord.gg/henzseku">discord.gg/henzseku</a>
 - Email          :: hanzse02@gmail.com
 - GitHub         :: <a href="https://github.com/HANZSEIO">github.com/HANZSEIO</a>
+- GitLab         :: <a href="https://gitlab.com/HANZSEIO">gitlab.com/HANZSEIO</a>
 </pre>
 
 <hr>
